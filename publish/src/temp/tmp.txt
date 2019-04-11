@@ -1,0 +1,14 @@
+<p><strong>Integrating the Healthcare Enterprise LookNow</strong></p>
+<table>
+<tbody>
+<tr class="odd">
+<td><img src="./media/image1.jpeg" style="width:2.13889in;height:2.13889in" /></td>
+</tr>
+</tbody>
+</table>
+<p><strong>IHE &lt;Domain Name&gt;</strong></p>
+<p><strong>Technical Framework Supplement</strong></p>
+<p><strong>&lt;Profile Name</strong></p>
+<p><strong>(Profile Acronym) &gt;</strong></p>
+<p>HL7<sup>®</sup> FHIR<sup>®</sup> STU x</p>
+<p>Using Resources at FMM Level n-n</p>

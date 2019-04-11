@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ImplementationGuide xmlns="http://hl7.org/fhir">
+  <id value="temp"/>
+  <url value="ihe.net/profiles/temp"/>
+  <version value="0.0.1"/>
+  <name value="temp"/>
+  <status value="active"/>
+  <experimental value="false"/>
+  <date value="2018-01-16T00:00:00.000+02:00"/>
+  <publisher value="ihe"/>
+  <description value="bnm"/>
+  <jurisdiction>
+    <coding>
+      <system value="urn:iso:std:iso:3166"/>
+      <code value="US"/>
+    </coding>
+  </jurisdiction>
+  <packageId value="ihetemp"/>
+  <definition>
+    <page>
+      <title value="Page"/>
+      <page>
+        <title value="Page"/>
+      </page>
+      <page>
+        <title value="Page"/>
+      </page>
+      <page>
+        <title value="Page"/>
+      </page>
+      <page>
+        <title value="Page"/>
+      </page>
+      <page>
+        <title value="Page"/>
+      </page>
+    </page>
+  </definition>
+</ImplementationGuide>
